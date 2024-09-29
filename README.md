@@ -1,5 +1,8 @@
 # DeathRowRoblox
 Death Row game auto enter, auto leave heaven using Python
+
+feature ideas:
+- Auto protection on cut
 # Auto Clicker for Screen Buttons
 
 Этот проект реализует автоматический поиск и нажатие кнопок на экране с использованием Python, OpenCV, и библиотеки MSS для захвата экрана. Мышь управляется через функции Windows API, вызываемые с помощью ctypes.
