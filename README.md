@@ -16,7 +16,7 @@ Death Row game auto enter, auto leave heaven using Python
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/auto-clicker.git
+    git clone https://github.com/booby1545/DeathRowRoblox.git
     ```
    
 2. Установите необходимые библиотеки:
